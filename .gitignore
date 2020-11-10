@@ -1,3 +1,6 @@
-.idea
+/.idea
 
-*.swp
+.DS_Store
+.swp
+
+/liang.sql

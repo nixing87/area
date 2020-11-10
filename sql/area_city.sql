@@ -1,10 +1,10 @@
 /*
  Navicat MySQL Data Transfer
 
- Source Server         : centos_lion
+ Source Server         : centos_liang
  Source Server Type    : MySQL
  Source Server Version : 50730
- Source Host           : centos_lion:3306
+ Source Host           : centos_liang:3306
  Source Schema         : t2_z_com
 
  Target Server Type    : MySQL
