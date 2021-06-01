@@ -1,2723 +1,2723 @@
 {
     "110100": {
         "id": 1,
-        "city_name": "±±¾©ÊĞ",
+        "city_name": "åŒ—äº¬å¸‚",
         "city_adcode": 110100,
         "province_adcode": 110000,
         "province_id": 1
     },
     "120100": {
         "id": 2,
-        "city_name": "Ìì½òÊĞ",
+        "city_name": "å¤©æ´¥å¸‚",
         "city_adcode": 120100,
         "province_adcode": 120000,
         "province_id": 2
     },
     "130100": {
         "id": 3,
-        "city_name": "Ê¯¼Ò×¯ÊĞ",
+        "city_name": "çŸ³å®¶åº„å¸‚",
         "city_adcode": 130100,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130200": {
         "id": 4,
-        "city_name": "ÌÆÉ½ÊĞ",
+        "city_name": "å”å±±å¸‚",
         "city_adcode": 130200,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130300": {
         "id": 5,
-        "city_name": "ÇØ»ÊµºÊĞ",
+        "city_name": "ç§¦çš‡å²›å¸‚",
         "city_adcode": 130300,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130400": {
         "id": 6,
-        "city_name": "ºªµ¦ÊĞ",
+        "city_name": "é‚¯éƒ¸å¸‚",
         "city_adcode": 130400,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130500": {
         "id": 7,
-        "city_name": "ĞÏÌ¨ÊĞ",
+        "city_name": "é‚¢å°å¸‚",
         "city_adcode": 130500,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130600": {
         "id": 8,
-        "city_name": "±£¶¨ÊĞ",
+        "city_name": "ä¿å®šå¸‚",
         "city_adcode": 130600,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130700": {
         "id": 9,
-        "city_name": "ÕÅ¼Ò¿ÚÊĞ",
+        "city_name": "å¼ å®¶å£å¸‚",
         "city_adcode": 130700,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130800": {
         "id": 10,
-        "city_name": "³ĞµÂÊĞ",
+        "city_name": "æ‰¿å¾·å¸‚",
         "city_adcode": 130800,
         "province_adcode": 130000,
         "province_id": 3
     },
     "130900": {
         "id": 11,
-        "city_name": "²×ÖİÊĞ",
+        "city_name": "æ²§å·å¸‚",
         "city_adcode": 130900,
         "province_adcode": 130000,
         "province_id": 3
     },
     "131000": {
         "id": 12,
-        "city_name": "ÀÈ·»ÊĞ",
+        "city_name": "å»ŠåŠå¸‚",
         "city_adcode": 131000,
         "province_adcode": 130000,
         "province_id": 3
     },
     "131100": {
         "id": 13,
-        "city_name": "ºâË®ÊĞ",
+        "city_name": "è¡¡æ°´å¸‚",
         "city_adcode": 131100,
         "province_adcode": 130000,
         "province_id": 3
     },
     "140100": {
         "id": 14,
-        "city_name": "Ì«Ô­ÊĞ",
+        "city_name": "å¤ªåŸå¸‚",
         "city_adcode": 140100,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140200": {
         "id": 15,
-        "city_name": "´óÍ¬ÊĞ",
+        "city_name": "å¤§åŒå¸‚",
         "city_adcode": 140200,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140300": {
         "id": 16,
-        "city_name": "ÑôÈªÊĞ",
+        "city_name": "é˜³æ³‰å¸‚",
         "city_adcode": 140300,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140400": {
         "id": 17,
-        "city_name": "³¤ÖÎÊĞ",
+        "city_name": "é•¿æ²»å¸‚",
         "city_adcode": 140400,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140500": {
         "id": 18,
-        "city_name": "½ú³ÇÊĞ",
+        "city_name": "æ™‹åŸå¸‚",
         "city_adcode": 140500,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140600": {
         "id": 19,
-        "city_name": "Ë·ÖİÊĞ",
+        "city_name": "æœ”å·å¸‚",
         "city_adcode": 140600,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140700": {
         "id": 20,
-        "city_name": "½úÖĞÊĞ",
+        "city_name": "æ™‹ä¸­å¸‚",
         "city_adcode": 140700,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140800": {
         "id": 21,
-        "city_name": "ÔË³ÇÊĞ",
+        "city_name": "è¿åŸå¸‚",
         "city_adcode": 140800,
         "province_adcode": 140000,
         "province_id": 4
     },
     "140900": {
         "id": 22,
-        "city_name": "ĞÃÖİÊĞ",
+        "city_name": "å¿»å·å¸‚",
         "city_adcode": 140900,
         "province_adcode": 140000,
         "province_id": 4
     },
     "141000": {
         "id": 23,
-        "city_name": "ÁÙ·ÚÊĞ",
+        "city_name": "ä¸´æ±¾å¸‚",
         "city_adcode": 141000,
         "province_adcode": 140000,
         "province_id": 4
     },
     "141100": {
         "id": 24,
-        "city_name": "ÂÀÁºÊĞ",
+        "city_name": "å•æ¢å¸‚",
         "city_adcode": 141100,
         "province_adcode": 140000,
         "province_id": 4
     },
     "150100": {
         "id": 25,
-        "city_name": "ºôºÍºÆÌØÊĞ",
+        "city_name": "å‘¼å’Œæµ©ç‰¹å¸‚",
         "city_adcode": 150100,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150200": {
         "id": 26,
-        "city_name": "°üÍ·ÊĞ",
+        "city_name": "åŒ…å¤´å¸‚",
         "city_adcode": 150200,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150300": {
         "id": 27,
-        "city_name": "ÎÚº£ÊĞ",
+        "city_name": "ä¹Œæµ·å¸‚",
         "city_adcode": 150300,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150400": {
         "id": 28,
-        "city_name": "³à·åÊĞ",
+        "city_name": "èµ¤å³°å¸‚",
         "city_adcode": 150400,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150500": {
         "id": 29,
-        "city_name": "Í¨ÁÉÊĞ",
+        "city_name": "é€šè¾½å¸‚",
         "city_adcode": 150500,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150600": {
         "id": 30,
-        "city_name": "¶õ¶û¶àË¹ÊĞ",
+        "city_name": "é„‚å°”å¤šæ–¯å¸‚",
         "city_adcode": 150600,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150700": {
         "id": 31,
-        "city_name": "ºôÂ×±´¶ûÊĞ",
+        "city_name": "å‘¼ä¼¦è´å°”å¸‚",
         "city_adcode": 150700,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150800": {
         "id": 32,
-        "city_name": "°ÍÑåÄ×¶ûÊĞ",
+        "city_name": "å·´å½¦æ·–å°”å¸‚",
         "city_adcode": 150800,
         "province_adcode": 150000,
         "province_id": 5
     },
     "150900": {
         "id": 33,
-        "city_name": "ÎÚÀ¼²ì²¼ÊĞ",
+        "city_name": "ä¹Œå…°å¯Ÿå¸ƒå¸‚",
         "city_adcode": 150900,
         "province_adcode": 150000,
         "province_id": 5
     },
     "152200": {
         "id": 34,
-        "city_name": "ĞË°²ÃË",
+        "city_name": "å…´å®‰ç›Ÿ",
         "city_adcode": 152200,
         "province_adcode": 150000,
         "province_id": 5
     },
     "152500": {
         "id": 35,
-        "city_name": "ÎıÁÖ¹ùÀÕÃË",
+        "city_name": "é”¡æ—éƒ­å‹’ç›Ÿ",
         "city_adcode": 152500,
         "province_adcode": 150000,
         "province_id": 5
     },
     "152900": {
         "id": 36,
-        "city_name": "°¢À­ÉÆÃË",
+        "city_name": "é˜¿æ‹‰å–„ç›Ÿ",
         "city_adcode": 152900,
         "province_adcode": 150000,
         "province_id": 5
     },
     "210100": {
         "id": 37,
-        "city_name": "ÉòÑôÊĞ",
+        "city_name": "æ²ˆé˜³å¸‚",
         "city_adcode": 210100,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210200": {
         "id": 38,
-        "city_name": "´óÁ¬ÊĞ",
+        "city_name": "å¤§è¿å¸‚",
         "city_adcode": 210200,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210300": {
         "id": 39,
-        "city_name": "°°É½ÊĞ",
+        "city_name": "éå±±å¸‚",
         "city_adcode": 210300,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210400": {
         "id": 40,
-        "city_name": "¸§Ë³ÊĞ",
+        "city_name": "æŠšé¡ºå¸‚",
         "city_adcode": 210400,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210500": {
         "id": 41,
-        "city_name": "±¾ÏªÊĞ",
+        "city_name": "æœ¬æºªå¸‚",
         "city_adcode": 210500,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210600": {
         "id": 42,
-        "city_name": "µ¤¶«ÊĞ",
+        "city_name": "ä¸¹ä¸œå¸‚",
         "city_adcode": 210600,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210700": {
         "id": 43,
-        "city_name": "½õÖİÊĞ",
+        "city_name": "é”¦å·å¸‚",
         "city_adcode": 210700,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210800": {
         "id": 44,
-        "city_name": "Óª¿ÚÊĞ",
+        "city_name": "è¥å£å¸‚",
         "city_adcode": 210800,
         "province_adcode": 210000,
         "province_id": 6
     },
     "210900": {
         "id": 45,
-        "city_name": "¸·ĞÂÊĞ",
+        "city_name": "é˜œæ–°å¸‚",
         "city_adcode": 210900,
         "province_adcode": 210000,
         "province_id": 6
     },
     "211000": {
         "id": 46,
-        "city_name": "ÁÉÑôÊĞ",
+        "city_name": "è¾½é˜³å¸‚",
         "city_adcode": 211000,
         "province_adcode": 210000,
         "province_id": 6
     },
     "211100": {
         "id": 47,
-        "city_name": "ÅÌ½õÊĞ",
+        "city_name": "ç›˜é”¦å¸‚",
         "city_adcode": 211100,
         "province_adcode": 210000,
         "province_id": 6
     },
     "211200": {
         "id": 48,
-        "city_name": "ÌúÁëÊĞ",
+        "city_name": "é“å²­å¸‚",
         "city_adcode": 211200,
         "province_adcode": 210000,
         "province_id": 6
     },
     "211300": {
         "id": 49,
-        "city_name": "³¯ÑôÊĞ",
+        "city_name": "æœé˜³å¸‚",
         "city_adcode": 211300,
         "province_adcode": 210000,
         "province_id": 6
     },
     "211400": {
         "id": 50,
-        "city_name": "ºùÂ«µºÊĞ",
+        "city_name": "è‘«èŠ¦å²›å¸‚",
         "city_adcode": 211400,
         "province_adcode": 210000,
         "province_id": 6
     },
     "220100": {
         "id": 51,
-        "city_name": "³¤´ºÊĞ",
+        "city_name": "é•¿æ˜¥å¸‚",
         "city_adcode": 220100,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220200": {
         "id": 52,
-        "city_name": "¼ªÁÖÊĞ",
+        "city_name": "å‰æ—å¸‚",
         "city_adcode": 220200,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220300": {
         "id": 53,
-        "city_name": "ËÄÆ½ÊĞ",
+        "city_name": "å››å¹³å¸‚",
         "city_adcode": 220300,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220400": {
         "id": 54,
-        "city_name": "ÁÉÔ´ÊĞ",
+        "city_name": "è¾½æºå¸‚",
         "city_adcode": 220400,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220500": {
         "id": 55,
-        "city_name": "Í¨»¯ÊĞ",
+        "city_name": "é€šåŒ–å¸‚",
         "city_adcode": 220500,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220600": {
         "id": 56,
-        "city_name": "°×É½ÊĞ",
+        "city_name": "ç™½å±±å¸‚",
         "city_adcode": 220600,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220700": {
         "id": 57,
-        "city_name": "ËÉÔ­ÊĞ",
+        "city_name": "æ¾åŸå¸‚",
         "city_adcode": 220700,
         "province_adcode": 220000,
         "province_id": 7
     },
     "220800": {
         "id": 58,
-        "city_name": "°×³ÇÊĞ",
+        "city_name": "ç™½åŸå¸‚",
         "city_adcode": 220800,
         "province_adcode": 220000,
         "province_id": 7
     },
     "222400": {
         "id": 59,
-        "city_name": "ÑÓ±ß³¯ÏÊ×å×ÔÖÎÖİ",
+        "city_name": "å»¶è¾¹æœé²œæ—è‡ªæ²»å·",
         "city_adcode": 222400,
         "province_adcode": 220000,
         "province_id": 7
     },
     "230100": {
         "id": 60,
-        "city_name": "¹ş¶û±õÊĞ",
+        "city_name": "å“ˆå°”æ»¨å¸‚",
         "city_adcode": 230100,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230200": {
         "id": 61,
-        "city_name": "ÆëÆë¹ş¶ûÊĞ",
+        "city_name": "é½é½å“ˆå°”å¸‚",
         "city_adcode": 230200,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230300": {
         "id": 62,
-        "city_name": "¼¦Î÷ÊĞ",
+        "city_name": "é¸¡è¥¿å¸‚",
         "city_adcode": 230300,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230400": {
         "id": 63,
-        "city_name": "º×¸ÚÊĞ",
+        "city_name": "é¹¤å²—å¸‚",
         "city_adcode": 230400,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230500": {
         "id": 64,
-        "city_name": "Ë«Ñ¼É½ÊĞ",
+        "city_name": "åŒé¸­å±±å¸‚",
         "city_adcode": 230500,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230600": {
         "id": 65,
-        "city_name": "´óÇìÊĞ",
+        "city_name": "å¤§åº†å¸‚",
         "city_adcode": 230600,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230700": {
         "id": 66,
-        "city_name": "ÒÁ´ºÊĞ",
+        "city_name": "ä¼Šæ˜¥å¸‚",
         "city_adcode": 230700,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230800": {
         "id": 67,
-        "city_name": "¼ÑÄ¾Ë¹ÊĞ",
+        "city_name": "ä½³æœ¨æ–¯å¸‚",
         "city_adcode": 230800,
         "province_adcode": 230000,
         "province_id": 8
     },
     "230900": {
         "id": 68,
-        "city_name": "ÆßÌ¨ºÓÊĞ",
+        "city_name": "ä¸ƒå°æ²³å¸‚",
         "city_adcode": 230900,
         "province_adcode": 230000,
         "province_id": 8
     },
     "231000": {
         "id": 69,
-        "city_name": "Äµµ¤½­ÊĞ",
+        "city_name": "ç‰¡ä¸¹æ±Ÿå¸‚",
         "city_adcode": 231000,
         "province_adcode": 230000,
         "province_id": 8
     },
     "231100": {
         "id": 70,
-        "city_name": "ºÚºÓÊĞ",
+        "city_name": "é»‘æ²³å¸‚",
         "city_adcode": 231100,
         "province_adcode": 230000,
         "province_id": 8
     },
     "231200": {
         "id": 71,
-        "city_name": "Ëç»¯ÊĞ",
+        "city_name": "ç»¥åŒ–å¸‚",
         "city_adcode": 231200,
         "province_adcode": 230000,
         "province_id": 8
     },
     "232700": {
         "id": 72,
-        "city_name": "´óĞË°²ÁëµØÇø",
+        "city_name": "å¤§å…´å®‰å²­åœ°åŒº",
         "city_adcode": 232700,
         "province_adcode": 230000,
         "province_id": 8
     },
     "310100": {
         "id": 73,
-        "city_name": "ÉÏº£ÊĞ",
+        "city_name": "ä¸Šæµ·å¸‚",
         "city_adcode": 310100,
         "province_adcode": 310000,
         "province_id": 9
     },
     "320100": {
         "id": 74,
-        "city_name": "ÄÏ¾©ÊĞ",
+        "city_name": "å—äº¬å¸‚",
         "city_adcode": 320100,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320200": {
         "id": 75,
-        "city_name": "ÎŞÎıÊĞ",
+        "city_name": "æ— é”¡å¸‚",
         "city_adcode": 320200,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320300": {
         "id": 76,
-        "city_name": "ĞìÖİÊĞ",
+        "city_name": "å¾å·å¸‚",
         "city_adcode": 320300,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320400": {
         "id": 77,
-        "city_name": "³£ÖİÊĞ",
+        "city_name": "å¸¸å·å¸‚",
         "city_adcode": 320400,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320500": {
         "id": 78,
-        "city_name": "ËÕÖİÊĞ",
+        "city_name": "è‹å·å¸‚",
         "city_adcode": 320500,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320600": {
         "id": 79,
-        "city_name": "ÄÏÍ¨ÊĞ",
+        "city_name": "å—é€šå¸‚",
         "city_adcode": 320600,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320700": {
         "id": 80,
-        "city_name": "Á¬ÔÆ¸ÛÊĞ",
+        "city_name": "è¿äº‘æ¸¯å¸‚",
         "city_adcode": 320700,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320800": {
         "id": 81,
-        "city_name": "»´°²ÊĞ",
+        "city_name": "æ·®å®‰å¸‚",
         "city_adcode": 320800,
         "province_adcode": 320000,
         "province_id": 10
     },
     "320900": {
         "id": 82,
-        "city_name": "ÑÎ³ÇÊĞ",
+        "city_name": "ç›åŸå¸‚",
         "city_adcode": 320900,
         "province_adcode": 320000,
         "province_id": 10
     },
     "321000": {
         "id": 83,
-        "city_name": "ÑïÖİÊĞ",
+        "city_name": "æ‰¬å·å¸‚",
         "city_adcode": 321000,
         "province_adcode": 320000,
         "province_id": 10
     },
     "321100": {
         "id": 84,
-        "city_name": "Õò½­ÊĞ",
+        "city_name": "é•‡æ±Ÿå¸‚",
         "city_adcode": 321100,
         "province_adcode": 320000,
         "province_id": 10
     },
     "321200": {
         "id": 85,
-        "city_name": "Ì©ÖİÊĞ",
+        "city_name": "æ³°å·å¸‚",
         "city_adcode": 321200,
         "province_adcode": 320000,
         "province_id": 10
     },
     "321300": {
         "id": 86,
-        "city_name": "ËŞÇ¨ÊĞ",
+        "city_name": "å®¿è¿å¸‚",
         "city_adcode": 321300,
         "province_adcode": 320000,
         "province_id": 10
     },
     "330100": {
         "id": 87,
-        "city_name": "º¼ÖİÊĞ",
+        "city_name": "æ­å·å¸‚",
         "city_adcode": 330100,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330200": {
         "id": 88,
-        "city_name": "Äş²¨ÊĞ",
+        "city_name": "å®æ³¢å¸‚",
         "city_adcode": 330200,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330300": {
         "id": 89,
-        "city_name": "ÎÂÖİÊĞ",
+        "city_name": "æ¸©å·å¸‚",
         "city_adcode": 330300,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330400": {
         "id": 90,
-        "city_name": "¼ÎĞËÊĞ",
+        "city_name": "å˜‰å…´å¸‚",
         "city_adcode": 330400,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330500": {
         "id": 91,
-        "city_name": "ºşÖİÊĞ",
+        "city_name": "æ¹–å·å¸‚",
         "city_adcode": 330500,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330600": {
         "id": 92,
-        "city_name": "ÉÜĞËÊĞ",
+        "city_name": "ç»å…´å¸‚",
         "city_adcode": 330600,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330700": {
         "id": 93,
-        "city_name": "½ğ»ªÊĞ",
+        "city_name": "é‡‘åå¸‚",
         "city_adcode": 330700,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330800": {
         "id": 94,
-        "city_name": "áéÖİÊĞ",
+        "city_name": "è¡¢å·å¸‚",
         "city_adcode": 330800,
         "province_adcode": 330000,
         "province_id": 11
     },
     "330900": {
         "id": 95,
-        "city_name": "ÖÛÉ½ÊĞ",
+        "city_name": "èˆŸå±±å¸‚",
         "city_adcode": 330900,
         "province_adcode": 330000,
         "province_id": 11
     },
     "331000": {
         "id": 96,
-        "city_name": "Ì¨ÖİÊĞ",
+        "city_name": "å°å·å¸‚",
         "city_adcode": 331000,
         "province_adcode": 330000,
         "province_id": 11
     },
     "331100": {
         "id": 97,
-        "city_name": "ÀöË®ÊĞ",
+        "city_name": "ä¸½æ°´å¸‚",
         "city_adcode": 331100,
         "province_adcode": 330000,
         "province_id": 11
     },
     "340100": {
         "id": 98,
-        "city_name": "ºÏ·ÊÊĞ",
+        "city_name": "åˆè‚¥å¸‚",
         "city_adcode": 340100,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340200": {
         "id": 99,
-        "city_name": "ÎßºşÊĞ",
+        "city_name": "èŠœæ¹–å¸‚",
         "city_adcode": 340200,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340300": {
         "id": 100,
-        "city_name": "°ö²ºÊĞ",
+        "city_name": "èšŒåŸ å¸‚",
         "city_adcode": 340300,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340400": {
         "id": 101,
-        "city_name": "»´ÄÏÊĞ",
+        "city_name": "æ·®å—å¸‚",
         "city_adcode": 340400,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340500": {
         "id": 102,
-        "city_name": "Âí°°É½ÊĞ",
+        "city_name": "é©¬éå±±å¸‚",
         "city_adcode": 340500,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340600": {
         "id": 103,
-        "city_name": "»´±±ÊĞ",
+        "city_name": "æ·®åŒ—å¸‚",
         "city_adcode": 340600,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340700": {
         "id": 104,
-        "city_name": "Í­ÁêÊĞ",
+        "city_name": "é“œé™µå¸‚",
         "city_adcode": 340700,
         "province_adcode": 340000,
         "province_id": 12
     },
     "340800": {
         "id": 105,
-        "city_name": "°²ÇìÊĞ",
+        "city_name": "å®‰åº†å¸‚",
         "city_adcode": 340800,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341000": {
         "id": 106,
-        "city_name": "»ÆÉ½ÊĞ",
+        "city_name": "é»„å±±å¸‚",
         "city_adcode": 341000,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341100": {
         "id": 107,
-        "city_name": "³üÖİÊĞ",
+        "city_name": "æ»å·å¸‚",
         "city_adcode": 341100,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341200": {
         "id": 108,
-        "city_name": "¸·ÑôÊĞ",
+        "city_name": "é˜œé˜³å¸‚",
         "city_adcode": 341200,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341300": {
         "id": 109,
-        "city_name": "ËŞÖİÊĞ",
+        "city_name": "å®¿å·å¸‚",
         "city_adcode": 341300,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341500": {
         "id": 110,
-        "city_name": "Áù°²ÊĞ",
+        "city_name": "å…­å®‰å¸‚",
         "city_adcode": 341500,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341600": {
         "id": 111,
-        "city_name": "ÙñÖİÊĞ",
+        "city_name": "äº³å·å¸‚",
         "city_adcode": 341600,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341700": {
         "id": 112,
-        "city_name": "³ØÖİÊĞ",
+        "city_name": "æ± å·å¸‚",
         "city_adcode": 341700,
         "province_adcode": 340000,
         "province_id": 12
     },
     "341800": {
         "id": 113,
-        "city_name": "Ğû³ÇÊĞ",
+        "city_name": "å®£åŸå¸‚",
         "city_adcode": 341800,
         "province_adcode": 340000,
         "province_id": 12
     },
     "350100": {
         "id": 114,
-        "city_name": "¸£ÖİÊĞ",
+        "city_name": "ç¦å·å¸‚",
         "city_adcode": 350100,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350200": {
         "id": 115,
-        "city_name": "ÏÃÃÅÊĞ",
+        "city_name": "å¦é—¨å¸‚",
         "city_adcode": 350200,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350300": {
         "id": 116,
-        "city_name": "ÆÎÌïÊĞ",
+        "city_name": "è†ç”°å¸‚",
         "city_adcode": 350300,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350400": {
         "id": 117,
-        "city_name": "ÈıÃ÷ÊĞ",
+        "city_name": "ä¸‰æ˜å¸‚",
         "city_adcode": 350400,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350500": {
         "id": 118,
-        "city_name": "ÈªÖİÊĞ",
+        "city_name": "æ³‰å·å¸‚",
         "city_adcode": 350500,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350600": {
         "id": 119,
-        "city_name": "ÕÄÖİÊĞ",
+        "city_name": "æ¼³å·å¸‚",
         "city_adcode": 350600,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350700": {
         "id": 120,
-        "city_name": "ÄÏÆ½ÊĞ",
+        "city_name": "å—å¹³å¸‚",
         "city_adcode": 350700,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350800": {
         "id": 121,
-        "city_name": "ÁúÑÒÊĞ",
+        "city_name": "é¾™å²©å¸‚",
         "city_adcode": 350800,
         "province_adcode": 350000,
         "province_id": 13
     },
     "350900": {
         "id": 122,
-        "city_name": "ÄşµÂÊĞ",
+        "city_name": "å®å¾·å¸‚",
         "city_adcode": 350900,
         "province_adcode": 350000,
         "province_id": 13
     },
     "360100": {
         "id": 123,
-        "city_name": "ÄÏ²ıÊĞ",
+        "city_name": "å—æ˜Œå¸‚",
         "city_adcode": 360100,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360200": {
         "id": 124,
-        "city_name": "¾°µÂÕòÊĞ",
+        "city_name": "æ™¯å¾·é•‡å¸‚",
         "city_adcode": 360200,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360300": {
         "id": 125,
-        "city_name": "Æ¼ÏçÊĞ",
+        "city_name": "èä¹¡å¸‚",
         "city_adcode": 360300,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360400": {
         "id": 126,
-        "city_name": "¾Å½­ÊĞ",
+        "city_name": "ä¹æ±Ÿå¸‚",
         "city_adcode": 360400,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360500": {
         "id": 127,
-        "city_name": "ĞÂÓàÊĞ",
+        "city_name": "æ–°ä½™å¸‚",
         "city_adcode": 360500,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360600": {
         "id": 128,
-        "city_name": "Ó¥Ì¶ÊĞ",
+        "city_name": "é¹°æ½­å¸‚",
         "city_adcode": 360600,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360700": {
         "id": 129,
-        "city_name": "¸ÓÖİÊĞ",
+        "city_name": "èµ£å·å¸‚",
         "city_adcode": 360700,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360800": {
         "id": 130,
-        "city_name": "¼ª°²ÊĞ",
+        "city_name": "å‰å®‰å¸‚",
         "city_adcode": 360800,
         "province_adcode": 360000,
         "province_id": 14
     },
     "360900": {
         "id": 131,
-        "city_name": "ÒË´ºÊĞ",
+        "city_name": "å®œæ˜¥å¸‚",
         "city_adcode": 360900,
         "province_adcode": 360000,
         "province_id": 14
     },
     "361000": {
         "id": 132,
-        "city_name": "¸§ÖİÊĞ",
+        "city_name": "æŠšå·å¸‚",
         "city_adcode": 361000,
         "province_adcode": 360000,
         "province_id": 14
     },
     "361100": {
         "id": 133,
-        "city_name": "ÉÏÈÄÊĞ",
+        "city_name": "ä¸Šé¥¶å¸‚",
         "city_adcode": 361100,
         "province_adcode": 360000,
         "province_id": 14
     },
     "370100": {
         "id": 134,
-        "city_name": "¼ÃÄÏÊĞ",
+        "city_name": "æµå—å¸‚",
         "city_adcode": 370100,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370200": {
         "id": 135,
-        "city_name": "ÇàµºÊĞ",
+        "city_name": "é’å²›å¸‚",
         "city_adcode": 370200,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370300": {
         "id": 136,
-        "city_name": "×Í²©ÊĞ",
+        "city_name": "æ·„åšå¸‚",
         "city_adcode": 370300,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370400": {
         "id": 137,
-        "city_name": "Ôæ×¯ÊĞ",
+        "city_name": "æ£åº„å¸‚",
         "city_adcode": 370400,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370500": {
         "id": 138,
-        "city_name": "¶«ÓªÊĞ",
+        "city_name": "ä¸œè¥å¸‚",
         "city_adcode": 370500,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370600": {
         "id": 139,
-        "city_name": "ÑÌÌ¨ÊĞ",
+        "city_name": "çƒŸå°å¸‚",
         "city_adcode": 370600,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370700": {
         "id": 140,
-        "city_name": "Î«·»ÊĞ",
+        "city_name": "æ½åŠå¸‚",
         "city_adcode": 370700,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370800": {
         "id": 141,
-        "city_name": "¼ÃÄşÊĞ",
+        "city_name": "æµå®å¸‚",
         "city_adcode": 370800,
         "province_adcode": 370000,
         "province_id": 15
     },
     "370900": {
         "id": 142,
-        "city_name": "Ì©°²ÊĞ",
+        "city_name": "æ³°å®‰å¸‚",
         "city_adcode": 370900,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371000": {
         "id": 143,
-        "city_name": "Íşº£ÊĞ",
+        "city_name": "å¨æµ·å¸‚",
         "city_adcode": 371000,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371100": {
         "id": 144,
-        "city_name": "ÈÕÕÕÊĞ",
+        "city_name": "æ—¥ç…§å¸‚",
         "city_adcode": 371100,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371300": {
         "id": 145,
-        "city_name": "ÁÙÒÊÊĞ",
+        "city_name": "ä¸´æ²‚å¸‚",
         "city_adcode": 371300,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371400": {
         "id": 146,
-        "city_name": "µÂÖİÊĞ",
+        "city_name": "å¾·å·å¸‚",
         "city_adcode": 371400,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371500": {
         "id": 147,
-        "city_name": "ÁÄ³ÇÊĞ",
+        "city_name": "èŠåŸå¸‚",
         "city_adcode": 371500,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371600": {
         "id": 148,
-        "city_name": "±õÖİÊĞ",
+        "city_name": "æ»¨å·å¸‚",
         "city_adcode": 371600,
         "province_adcode": 370000,
         "province_id": 15
     },
     "371700": {
         "id": 149,
-        "city_name": "ºÊÔóÊĞ",
+        "city_name": "èæ³½å¸‚",
         "city_adcode": 371700,
         "province_adcode": 370000,
         "province_id": 15
     },
     "410100": {
         "id": 150,
-        "city_name": "Ö£ÖİÊĞ",
+        "city_name": "éƒ‘å·å¸‚",
         "city_adcode": 410100,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410200": {
         "id": 151,
-        "city_name": "¿ª·âÊĞ",
+        "city_name": "å¼€å°å¸‚",
         "city_adcode": 410200,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410300": {
         "id": 152,
-        "city_name": "ÂåÑôÊĞ",
+        "city_name": "æ´›é˜³å¸‚",
         "city_adcode": 410300,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410400": {
         "id": 153,
-        "city_name": "Æ½¶¥É½ÊĞ",
+        "city_name": "å¹³é¡¶å±±å¸‚",
         "city_adcode": 410400,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410500": {
         "id": 154,
-        "city_name": "°²ÑôÊĞ",
+        "city_name": "å®‰é˜³å¸‚",
         "city_adcode": 410500,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410600": {
         "id": 155,
-        "city_name": "º×±ÚÊĞ",
+        "city_name": "é¹¤å£å¸‚",
         "city_adcode": 410600,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410700": {
         "id": 156,
-        "city_name": "ĞÂÏçÊĞ",
+        "city_name": "æ–°ä¹¡å¸‚",
         "city_adcode": 410700,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410800": {
         "id": 157,
-        "city_name": "½¹×÷ÊĞ",
+        "city_name": "ç„¦ä½œå¸‚",
         "city_adcode": 410800,
         "province_adcode": 410000,
         "province_id": 16
     },
     "410900": {
         "id": 158,
-        "city_name": "å§ÑôÊĞ",
+        "city_name": "æ¿®é˜³å¸‚",
         "city_adcode": 410900,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411000": {
         "id": 159,
-        "city_name": "Ğí²ıÊĞ",
+        "city_name": "è®¸æ˜Œå¸‚",
         "city_adcode": 411000,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411100": {
         "id": 160,
-        "city_name": "äğºÓÊĞ",
+        "city_name": "æ¼¯æ²³å¸‚",
         "city_adcode": 411100,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411200": {
         "id": 161,
-        "city_name": "ÈıÃÅÏ¿ÊĞ",
+        "city_name": "ä¸‰é—¨å³¡å¸‚",
         "city_adcode": 411200,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411300": {
         "id": 162,
-        "city_name": "ÄÏÑôÊĞ",
+        "city_name": "å—é˜³å¸‚",
         "city_adcode": 411300,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411400": {
         "id": 163,
-        "city_name": "ÉÌÇğÊĞ",
+        "city_name": "å•†ä¸˜å¸‚",
         "city_adcode": 411400,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411500": {
         "id": 164,
-        "city_name": "ĞÅÑôÊĞ",
+        "city_name": "ä¿¡é˜³å¸‚",
         "city_adcode": 411500,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411600": {
         "id": 165,
-        "city_name": "ÖÜ¿ÚÊĞ",
+        "city_name": "å‘¨å£å¸‚",
         "city_adcode": 411600,
         "province_adcode": 410000,
         "province_id": 16
     },
     "411700": {
         "id": 166,
-        "city_name": "×¤ÂíµêÊĞ",
+        "city_name": "é©»é©¬åº—å¸‚",
         "city_adcode": 411700,
         "province_adcode": 410000,
         "province_id": 16
     },
     "419001": {
         "id": 167,
-        "city_name": "¼ÃÔ´ÊĞ",
+        "city_name": "æµæºå¸‚",
         "city_adcode": 419001,
         "province_adcode": 410000,
         "province_id": 16
     },
     "420100": {
         "id": 168,
-        "city_name": "ÎäººÊĞ",
+        "city_name": "æ­¦æ±‰å¸‚",
         "city_adcode": 420100,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420200": {
         "id": 169,
-        "city_name": "»ÆÊ¯ÊĞ",
+        "city_name": "é»„çŸ³å¸‚",
         "city_adcode": 420200,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420300": {
         "id": 170,
-        "city_name": "Ê®ÑßÊĞ",
+        "city_name": "åå °å¸‚",
         "city_adcode": 420300,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420500": {
         "id": 171,
-        "city_name": "ÒË²ıÊĞ",
+        "city_name": "å®œæ˜Œå¸‚",
         "city_adcode": 420500,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420600": {
         "id": 172,
-        "city_name": "ÏåÑôÊĞ",
+        "city_name": "è¥„é˜³å¸‚",
         "city_adcode": 420600,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420700": {
         "id": 173,
-        "city_name": "¶õÖİÊĞ",
+        "city_name": "é„‚å·å¸‚",
         "city_adcode": 420700,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420800": {
         "id": 174,
-        "city_name": "¾£ÃÅÊĞ",
+        "city_name": "è†é—¨å¸‚",
         "city_adcode": 420800,
         "province_adcode": 420000,
         "province_id": 17
     },
     "420900": {
         "id": 175,
-        "city_name": "Ğ¢¸ĞÊĞ",
+        "city_name": "å­æ„Ÿå¸‚",
         "city_adcode": 420900,
         "province_adcode": 420000,
         "province_id": 17
     },
     "421000": {
         "id": 176,
-        "city_name": "¾£ÖİÊĞ",
+        "city_name": "è†å·å¸‚",
         "city_adcode": 421000,
         "province_adcode": 420000,
         "province_id": 17
     },
     "421100": {
         "id": 177,
-        "city_name": "»Æ¸ÔÊĞ",
+        "city_name": "é»„å†ˆå¸‚",
         "city_adcode": 421100,
         "province_adcode": 420000,
         "province_id": 17
     },
     "421200": {
         "id": 178,
-        "city_name": "ÏÌÄşÊĞ",
+        "city_name": "å’¸å®å¸‚",
         "city_adcode": 421200,
         "province_adcode": 420000,
         "province_id": 17
     },
     "421300": {
         "id": 179,
-        "city_name": "ËæÖİÊĞ",
+        "city_name": "éšå·å¸‚",
         "city_adcode": 421300,
         "province_adcode": 420000,
         "province_id": 17
     },
     "422800": {
         "id": 180,
-        "city_name": "¶÷Ê©ÍÁ¼Ò×åÃç×å×ÔÖÎÖİ",
+        "city_name": "æ©æ–½åœŸå®¶æ—è‹—æ—è‡ªæ²»å·",
         "city_adcode": 422800,
         "province_adcode": 420000,
         "province_id": 17
     },
     "429004": {
         "id": 181,
-        "city_name": "ÏÉÌÒÊĞ",
+        "city_name": "ä»™æ¡ƒå¸‚",
         "city_adcode": 429004,
         "province_adcode": 420000,
         "province_id": 17
     },
     "429005": {
         "id": 182,
-        "city_name": "Ç±½­ÊĞ",
+        "city_name": "æ½œæ±Ÿå¸‚",
         "city_adcode": 429005,
         "province_adcode": 420000,
         "province_id": 17
     },
     "429006": {
         "id": 183,
-        "city_name": "ÌìÃÅÊĞ",
+        "city_name": "å¤©é—¨å¸‚",
         "city_adcode": 429006,
         "province_adcode": 420000,
         "province_id": 17
     },
     "429021": {
         "id": 184,
-        "city_name": "ÉñÅ©¼ÜÁÖÇø",
+        "city_name": "ç¥å†œæ¶æ—åŒº",
         "city_adcode": 429021,
         "province_adcode": 420000,
         "province_id": 17
     },
     "430100": {
         "id": 185,
-        "city_name": "³¤É³ÊĞ",
+        "city_name": "é•¿æ²™å¸‚",
         "city_adcode": 430100,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430200": {
         "id": 186,
-        "city_name": "ÖêÖŞÊĞ",
+        "city_name": "æ ªæ´²å¸‚",
         "city_adcode": 430200,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430300": {
         "id": 187,
-        "city_name": "ÏæÌ¶ÊĞ",
+        "city_name": "æ¹˜æ½­å¸‚",
         "city_adcode": 430300,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430400": {
         "id": 188,
-        "city_name": "ºâÑôÊĞ",
+        "city_name": "è¡¡é˜³å¸‚",
         "city_adcode": 430400,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430500": {
         "id": 189,
-        "city_name": "ÉÛÑôÊĞ",
+        "city_name": "é‚µé˜³å¸‚",
         "city_adcode": 430500,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430600": {
         "id": 190,
-        "city_name": "ÔÀÑôÊĞ",
+        "city_name": "å²³é˜³å¸‚",
         "city_adcode": 430600,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430700": {
         "id": 191,
-        "city_name": "³£µÂÊĞ",
+        "city_name": "å¸¸å¾·å¸‚",
         "city_adcode": 430700,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430800": {
         "id": 192,
-        "city_name": "ÕÅ¼Ò½çÊĞ",
+        "city_name": "å¼ å®¶ç•Œå¸‚",
         "city_adcode": 430800,
         "province_adcode": 430000,
         "province_id": 18
     },
     "430900": {
         "id": 193,
-        "city_name": "ÒæÑôÊĞ",
+        "city_name": "ç›Šé˜³å¸‚",
         "city_adcode": 430900,
         "province_adcode": 430000,
         "province_id": 18
     },
     "431000": {
         "id": 194,
-        "city_name": "³»ÖİÊĞ",
+        "city_name": "éƒ´å·å¸‚",
         "city_adcode": 431000,
         "province_adcode": 430000,
         "province_id": 18
     },
     "431100": {
         "id": 195,
-        "city_name": "ÓÀÖİÊĞ",
+        "city_name": "æ°¸å·å¸‚",
         "city_adcode": 431100,
         "province_adcode": 430000,
         "province_id": 18
     },
     "431200": {
         "id": 196,
-        "city_name": "»³»¯ÊĞ",
+        "city_name": "æ€€åŒ–å¸‚",
         "city_adcode": 431200,
         "province_adcode": 430000,
         "province_id": 18
     },
     "431300": {
         "id": 197,
-        "city_name": "Â¦µ×ÊĞ",
+        "city_name": "å¨„åº•å¸‚",
         "city_adcode": 431300,
         "province_adcode": 430000,
         "province_id": 18
     },
     "433100": {
         "id": 198,
-        "city_name": "ÏæÎ÷ÍÁ¼Ò×åÃç×å×ÔÖÎÖİ",
+        "city_name": "æ¹˜è¥¿åœŸå®¶æ—è‹—æ—è‡ªæ²»å·",
         "city_adcode": 433100,
         "province_adcode": 430000,
         "province_id": 18
     },
     "440100": {
         "id": 199,
-        "city_name": "¹ãÖİÊĞ",
+        "city_name": "å¹¿å·å¸‚",
         "city_adcode": 440100,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440200": {
         "id": 200,
-        "city_name": "ÉØ¹ØÊĞ",
+        "city_name": "éŸ¶å…³å¸‚",
         "city_adcode": 440200,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440300": {
         "id": 201,
-        "city_name": "ÉîÛÚÊĞ",
+        "city_name": "æ·±åœ³å¸‚",
         "city_adcode": 440300,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440400": {
         "id": 202,
-        "city_name": "Öéº£ÊĞ",
+        "city_name": "ç æµ·å¸‚",
         "city_adcode": 440400,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440500": {
         "id": 203,
-        "city_name": "ÉÇÍ·ÊĞ",
+        "city_name": "æ±•å¤´å¸‚",
         "city_adcode": 440500,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440600": {
         "id": 204,
-        "city_name": "·ğÉ½ÊĞ",
+        "city_name": "ä½›å±±å¸‚",
         "city_adcode": 440600,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440700": {
         "id": 205,
-        "city_name": "½­ÃÅÊĞ",
+        "city_name": "æ±Ÿé—¨å¸‚",
         "city_adcode": 440700,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440800": {
         "id": 206,
-        "city_name": "Õ¿½­ÊĞ",
+        "city_name": "æ¹›æ±Ÿå¸‚",
         "city_adcode": 440800,
         "province_adcode": 440000,
         "province_id": 19
     },
     "440900": {
         "id": 207,
-        "city_name": "Ã¯ÃûÊĞ",
+        "city_name": "èŒ‚åå¸‚",
         "city_adcode": 440900,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441200": {
         "id": 208,
-        "city_name": "ÕØÇìÊĞ",
+        "city_name": "è‚‡åº†å¸‚",
         "city_adcode": 441200,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441300": {
         "id": 209,
-        "city_name": "»İÖİÊĞ",
+        "city_name": "æƒ å·å¸‚",
         "city_adcode": 441300,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441400": {
         "id": 210,
-        "city_name": "Ã·ÖİÊĞ",
+        "city_name": "æ¢…å·å¸‚",
         "city_adcode": 441400,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441500": {
         "id": 211,
-        "city_name": "ÉÇÎ²ÊĞ",
+        "city_name": "æ±•å°¾å¸‚",
         "city_adcode": 441500,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441600": {
         "id": 212,
-        "city_name": "ºÓÔ´ÊĞ",
+        "city_name": "æ²³æºå¸‚",
         "city_adcode": 441600,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441700": {
         "id": 213,
-        "city_name": "Ñô½­ÊĞ",
+        "city_name": "é˜³æ±Ÿå¸‚",
         "city_adcode": 441700,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441800": {
         "id": 214,
-        "city_name": "ÇåÔ¶ÊĞ",
+        "city_name": "æ¸…è¿œå¸‚",
         "city_adcode": 441800,
         "province_adcode": 440000,
         "province_id": 19
     },
     "441900": {
         "id": 215,
-        "city_name": "¶«İ¸ÊĞ",
+        "city_name": "ä¸œèå¸‚",
         "city_adcode": 441900,
         "province_adcode": 440000,
         "province_id": 19
     },
     "442000": {
         "id": 216,
-        "city_name": "ÖĞÉ½ÊĞ",
+        "city_name": "ä¸­å±±å¸‚",
         "city_adcode": 442000,
         "province_adcode": 440000,
         "province_id": 19
     },
     "445100": {
         "id": 217,
-        "city_name": "³±ÖİÊĞ",
+        "city_name": "æ½®å·å¸‚",
         "city_adcode": 445100,
         "province_adcode": 440000,
         "province_id": 19
     },
     "445200": {
         "id": 218,
-        "city_name": "½ÒÑôÊĞ",
+        "city_name": "æ­é˜³å¸‚",
         "city_adcode": 445200,
         "province_adcode": 440000,
         "province_id": 19
     },
     "445300": {
         "id": 219,
-        "city_name": "ÔÆ¸¡ÊĞ",
+        "city_name": "äº‘æµ®å¸‚",
         "city_adcode": 445300,
         "province_adcode": 440000,
         "province_id": 19
     },
     "450100": {
         "id": 220,
-        "city_name": "ÄÏÄşÊĞ",
+        "city_name": "å—å®å¸‚",
         "city_adcode": 450100,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450200": {
         "id": 221,
-        "city_name": "ÁøÖİÊĞ",
+        "city_name": "æŸ³å·å¸‚",
         "city_adcode": 450200,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450300": {
         "id": 222,
-        "city_name": "¹ğÁÖÊĞ",
+        "city_name": "æ¡‚æ—å¸‚",
         "city_adcode": 450300,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450400": {
         "id": 223,
-        "city_name": "ÎàÖİÊĞ",
+        "city_name": "æ¢§å·å¸‚",
         "city_adcode": 450400,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450500": {
         "id": 224,
-        "city_name": "±±º£ÊĞ",
+        "city_name": "åŒ—æµ·å¸‚",
         "city_adcode": 450500,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450600": {
         "id": 225,
-        "city_name": "·À³Ç¸ÛÊĞ",
+        "city_name": "é˜²åŸæ¸¯å¸‚",
         "city_adcode": 450600,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450700": {
         "id": 226,
-        "city_name": "ÇÕÖİÊĞ",
+        "city_name": "é’¦å·å¸‚",
         "city_adcode": 450700,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450800": {
         "id": 227,
-        "city_name": "¹ó¸ÛÊĞ",
+        "city_name": "è´µæ¸¯å¸‚",
         "city_adcode": 450800,
         "province_adcode": 450000,
         "province_id": 20
     },
     "450900": {
         "id": 228,
-        "city_name": "ÓñÁÖÊĞ",
+        "city_name": "ç‰æ—å¸‚",
         "city_adcode": 450900,
         "province_adcode": 450000,
         "province_id": 20
     },
     "451000": {
         "id": 229,
-        "city_name": "°ÙÉ«ÊĞ",
+        "city_name": "ç™¾è‰²å¸‚",
         "city_adcode": 451000,
         "province_adcode": 450000,
         "province_id": 20
     },
     "451100": {
         "id": 230,
-        "city_name": "ºØÖİÊĞ",
+        "city_name": "è´ºå·å¸‚",
         "city_adcode": 451100,
         "province_adcode": 450000,
         "province_id": 20
     },
     "451200": {
         "id": 231,
-        "city_name": "ºÓ³ØÊĞ",
+        "city_name": "æ²³æ± å¸‚",
         "city_adcode": 451200,
         "province_adcode": 450000,
         "province_id": 20
     },
     "451300": {
         "id": 232,
-        "city_name": "À´±öÊĞ",
+        "city_name": "æ¥å®¾å¸‚",
         "city_adcode": 451300,
         "province_adcode": 450000,
         "province_id": 20
     },
     "451400": {
         "id": 233,
-        "city_name": "³ç×óÊĞ",
+        "city_name": "å´‡å·¦å¸‚",
         "city_adcode": 451400,
         "province_adcode": 450000,
         "province_id": 20
     },
     "460100": {
         "id": 234,
-        "city_name": "º£¿ÚÊĞ",
+        "city_name": "æµ·å£å¸‚",
         "city_adcode": 460100,
         "province_adcode": 460000,
         "province_id": 21
     },
     "460200": {
         "id": 235,
-        "city_name": "ÈıÑÇÊĞ",
+        "city_name": "ä¸‰äºšå¸‚",
         "city_adcode": 460200,
         "province_adcode": 460000,
         "province_id": 21
     },
     "460300": {
         "id": 236,
-        "city_name": "ÈıÉ³ÊĞ",
+        "city_name": "ä¸‰æ²™å¸‚",
         "city_adcode": 460300,
         "province_adcode": 460000,
         "province_id": 21
     },
     "460400": {
         "id": 237,
-        "city_name": "ÙÙÖİÊĞ",
+        "city_name": "å„‹å·å¸‚",
         "city_adcode": 460400,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469001": {
         "id": 238,
-        "city_name": "ÎåÖ¸É½ÊĞ",
+        "city_name": "äº”æŒ‡å±±å¸‚",
         "city_adcode": 469001,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469002": {
         "id": 239,
-        "city_name": "Çíº£ÊĞ",
+        "city_name": "ç¼æµ·å¸‚",
         "city_adcode": 469002,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469005": {
         "id": 240,
-        "city_name": "ÎÄ²ıÊĞ",
+        "city_name": "æ–‡æ˜Œå¸‚",
         "city_adcode": 469005,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469006": {
         "id": 241,
-        "city_name": "ÍòÄşÊĞ",
+        "city_name": "ä¸‡å®å¸‚",
         "city_adcode": 469006,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469007": {
         "id": 242,
-        "city_name": "¶«·½ÊĞ",
+        "city_name": "ä¸œæ–¹å¸‚",
         "city_adcode": 469007,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469021": {
         "id": 243,
-        "city_name": "¶¨°²ÏØ",
+        "city_name": "å®šå®‰å¿",
         "city_adcode": 469021,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469022": {
         "id": 244,
-        "city_name": "ÍÍ²ıÏØ",
+        "city_name": "å±¯æ˜Œå¿",
         "city_adcode": 469022,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469023": {
         "id": 245,
-        "city_name": "³ÎÂõÏØ",
+        "city_name": "æ¾„è¿ˆå¿",
         "city_adcode": 469023,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469024": {
         "id": 246,
-        "city_name": "ÁÙ¸ßÏØ",
+        "city_name": "ä¸´é«˜å¿",
         "city_adcode": 469024,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469025": {
         "id": 247,
-        "city_name": "°×É³Àè×å×ÔÖÎÏØ",
+        "city_name": "ç™½æ²™é»æ—è‡ªæ²»å¿",
         "city_adcode": 469025,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469026": {
         "id": 248,
-        "city_name": "²ı½­Àè×å×ÔÖÎÏØ",
+        "city_name": "æ˜Œæ±Ÿé»æ—è‡ªæ²»å¿",
         "city_adcode": 469026,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469027": {
         "id": 249,
-        "city_name": "ÀÖ¶«Àè×å×ÔÖÎÏØ",
+        "city_name": "ä¹ä¸œé»æ—è‡ªæ²»å¿",
         "city_adcode": 469027,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469028": {
         "id": 250,
-        "city_name": "ÁêË®Àè×å×ÔÖÎÏØ",
+        "city_name": "é™µæ°´é»æ—è‡ªæ²»å¿",
         "city_adcode": 469028,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469029": {
         "id": 251,
-        "city_name": "±£Í¤Àè×åÃç×å×ÔÖÎÏØ",
+        "city_name": "ä¿äº­é»æ—è‹—æ—è‡ªæ²»å¿",
         "city_adcode": 469029,
         "province_adcode": 460000,
         "province_id": 21
     },
     "469030": {
         "id": 252,
-        "city_name": "ÇíÖĞÀè×åÃç×å×ÔÖÎÏØ",
+        "city_name": "ç¼ä¸­é»æ—è‹—æ—è‡ªæ²»å¿",
         "city_adcode": 469030,
         "province_adcode": 460000,
         "province_id": 21
     },
     "500100": {
         "id": 253,
-        "city_name": "ÖØÇìÊĞ",
+        "city_name": "é‡åº†å¸‚",
         "city_adcode": 500100,
         "province_adcode": 500000,
         "province_id": 22
     },
     "510100": {
         "id": 254,
-        "city_name": "³É¶¼ÊĞ",
+        "city_name": "æˆéƒ½å¸‚",
         "city_adcode": 510100,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510300": {
         "id": 255,
-        "city_name": "×Ô¹±ÊĞ",
+        "city_name": "è‡ªè´¡å¸‚",
         "city_adcode": 510300,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510400": {
         "id": 256,
-        "city_name": "ÅÊÖ¦»¨ÊĞ",
+        "city_name": "æ”€æèŠ±å¸‚",
         "city_adcode": 510400,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510500": {
         "id": 257,
-        "city_name": "ãòÖİÊĞ",
+        "city_name": "æ³¸å·å¸‚",
         "city_adcode": 510500,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510600": {
         "id": 258,
-        "city_name": "µÂÑôÊĞ",
+        "city_name": "å¾·é˜³å¸‚",
         "city_adcode": 510600,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510700": {
         "id": 259,
-        "city_name": "ÃàÑôÊĞ",
+        "city_name": "ç»µé˜³å¸‚",
         "city_adcode": 510700,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510800": {
         "id": 260,
-        "city_name": "¹ãÔªÊĞ",
+        "city_name": "å¹¿å…ƒå¸‚",
         "city_adcode": 510800,
         "province_adcode": 510000,
         "province_id": 23
     },
     "510900": {
         "id": 261,
-        "city_name": "ËìÄşÊĞ",
+        "city_name": "é‚å®å¸‚",
         "city_adcode": 510900,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511000": {
         "id": 262,
-        "city_name": "ÄÚ½­ÊĞ",
+        "city_name": "å†…æ±Ÿå¸‚",
         "city_adcode": 511000,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511100": {
         "id": 263,
-        "city_name": "ÀÖÉ½ÊĞ",
+        "city_name": "ä¹å±±å¸‚",
         "city_adcode": 511100,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511300": {
         "id": 264,
-        "city_name": "ÄÏ³äÊĞ",
+        "city_name": "å—å……å¸‚",
         "city_adcode": 511300,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511400": {
         "id": 265,
-        "city_name": "Ã¼É½ÊĞ",
+        "city_name": "çœ‰å±±å¸‚",
         "city_adcode": 511400,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511500": {
         "id": 266,
-        "city_name": "ÒË±öÊĞ",
+        "city_name": "å®œå®¾å¸‚",
         "city_adcode": 511500,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511600": {
         "id": 267,
-        "city_name": "¹ã°²ÊĞ",
+        "city_name": "å¹¿å®‰å¸‚",
         "city_adcode": 511600,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511700": {
         "id": 268,
-        "city_name": "´ïÖİÊĞ",
+        "city_name": "è¾¾å·å¸‚",
         "city_adcode": 511700,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511800": {
         "id": 269,
-        "city_name": "ÑÅ°²ÊĞ",
+        "city_name": "é›…å®‰å¸‚",
         "city_adcode": 511800,
         "province_adcode": 510000,
         "province_id": 23
     },
     "511900": {
         "id": 270,
-        "city_name": "°ÍÖĞÊĞ",
+        "city_name": "å·´ä¸­å¸‚",
         "city_adcode": 511900,
         "province_adcode": 510000,
         "province_id": 23
     },
     "512000": {
         "id": 271,
-        "city_name": "×ÊÑôÊĞ",
+        "city_name": "èµ„é˜³å¸‚",
         "city_adcode": 512000,
         "province_adcode": 510000,
         "province_id": 23
     },
     "513200": {
         "id": 272,
-        "city_name": "°¢°Ó²Ø×åÇ¼×å×ÔÖÎÖİ",
+        "city_name": "é˜¿åè—æ—ç¾Œæ—è‡ªæ²»å·",
         "city_adcode": 513200,
         "province_adcode": 510000,
         "province_id": 23
     },
     "513300": {
         "id": 273,
-        "city_name": "¸Ê×Î²Ø×å×ÔÖÎÖİ",
+        "city_name": "ç”˜å­œè—æ—è‡ªæ²»å·",
         "city_adcode": 513300,
         "province_adcode": 510000,
         "province_id": 23
     },
     "513400": {
         "id": 274,
-        "city_name": "Á¹É½ÒÍ×å×ÔÖÎÖİ",
+        "city_name": "å‡‰å±±å½æ—è‡ªæ²»å·",
         "city_adcode": 513400,
         "province_adcode": 510000,
         "province_id": 23
     },
     "520100": {
         "id": 275,
-        "city_name": "¹óÑôÊĞ",
+        "city_name": "è´µé˜³å¸‚",
         "city_adcode": 520100,
         "province_adcode": 520000,
         "province_id": 24
     },
     "520200": {
         "id": 276,
-        "city_name": "ÁùÅÌË®ÊĞ",
+        "city_name": "å…­ç›˜æ°´å¸‚",
         "city_adcode": 520200,
         "province_adcode": 520000,
         "province_id": 24
     },
     "520300": {
         "id": 277,
-        "city_name": "×ñÒåÊĞ",
+        "city_name": "éµä¹‰å¸‚",
         "city_adcode": 520300,
         "province_adcode": 520000,
         "province_id": 24
     },
     "520400": {
         "id": 278,
-        "city_name": "°²Ë³ÊĞ",
+        "city_name": "å®‰é¡ºå¸‚",
         "city_adcode": 520400,
         "province_adcode": 520000,
         "province_id": 24
     },
     "520500": {
         "id": 279,
-        "city_name": "±Ï½ÚÊĞ",
+        "city_name": "æ¯•èŠ‚å¸‚",
         "city_adcode": 520500,
         "province_adcode": 520000,
         "province_id": 24
     },
     "520600": {
         "id": 280,
-        "city_name": "Í­ÈÊÊĞ",
+        "city_name": "é“œä»å¸‚",
         "city_adcode": 520600,
         "province_adcode": 520000,
         "province_id": 24
     },
     "522300": {
         "id": 281,
-        "city_name": "Ç­Î÷ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖİ",
+        "city_name": "é»”è¥¿å—å¸ƒä¾æ—è‹—æ—è‡ªæ²»å·",
         "city_adcode": 522300,
         "province_adcode": 520000,
         "province_id": 24
     },
     "522600": {
         "id": 282,
-        "city_name": "Ç­¶«ÄÏÃç×å¶±×å×ÔÖÎÖİ",
+        "city_name": "é»”ä¸œå—è‹—æ—ä¾—æ—è‡ªæ²»å·",
         "city_adcode": 522600,
         "province_adcode": 520000,
         "province_id": 24
     },
     "522700": {
         "id": 283,
-        "city_name": "Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖİ",
+        "city_name": "é»”å—å¸ƒä¾æ—è‹—æ—è‡ªæ²»å·",
         "city_adcode": 522700,
         "province_adcode": 520000,
         "province_id": 24
     },
     "530100": {
         "id": 284,
-        "city_name": "À¥Ã÷ÊĞ",
+        "city_name": "æ˜†æ˜å¸‚",
         "city_adcode": 530100,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530300": {
         "id": 285,
-        "city_name": "Çú¾¸ÊĞ",
+        "city_name": "æ›²é–å¸‚",
         "city_adcode": 530300,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530400": {
         "id": 286,
-        "city_name": "ÓñÏªÊĞ",
+        "city_name": "ç‰æºªå¸‚",
         "city_adcode": 530400,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530500": {
         "id": 287,
-        "city_name": "±£É½ÊĞ",
+        "city_name": "ä¿å±±å¸‚",
         "city_adcode": 530500,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530600": {
         "id": 288,
-        "city_name": "ÕÑÍ¨ÊĞ",
+        "city_name": "æ˜­é€šå¸‚",
         "city_adcode": 530600,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530700": {
         "id": 289,
-        "city_name": "Àö½­ÊĞ",
+        "city_name": "ä¸½æ±Ÿå¸‚",
         "city_adcode": 530700,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530800": {
         "id": 290,
-        "city_name": "ÆÕ¶ıÊĞ",
+        "city_name": "æ™®æ´±å¸‚",
         "city_adcode": 530800,
         "province_adcode": 530000,
         "province_id": 25
     },
     "530900": {
         "id": 291,
-        "city_name": "ÁÙ²×ÊĞ",
+        "city_name": "ä¸´æ²§å¸‚",
         "city_adcode": 530900,
         "province_adcode": 530000,
         "province_id": 25
     },
     "532300": {
         "id": 292,
-        "city_name": "³şĞÛÒÍ×å×ÔÖÎÖİ",
+        "city_name": "æ¥šé›„å½æ—è‡ªæ²»å·",
         "city_adcode": 532300,
         "province_adcode": 530000,
         "province_id": 25
     },
     "532500": {
         "id": 293,
-        "city_name": "ºìºÓ¹şÄá×åÒÍ×å×ÔÖÎÖİ",
+        "city_name": "çº¢æ²³å“ˆå°¼æ—å½æ—è‡ªæ²»å·",
         "city_adcode": 532500,
         "province_adcode": 530000,
         "province_id": 25
     },
     "532600": {
         "id": 294,
-        "city_name": "ÎÄÉ½×³×åÃç×å×ÔÖÎÖİ",
+        "city_name": "æ–‡å±±å£®æ—è‹—æ—è‡ªæ²»å·",
         "city_adcode": 532600,
         "province_adcode": 530000,
         "province_id": 25
     },
     "532800": {
         "id": 295,
-        "city_name": "Î÷Ë«°æÄÉ´ö×å×ÔÖÎÖİ",
+        "city_name": "è¥¿åŒç‰ˆçº³å‚£æ—è‡ªæ²»å·",
         "city_adcode": 532800,
         "province_adcode": 530000,
         "province_id": 25
     },
     "532900": {
         "id": 296,
-        "city_name": "´óÀí°××å×ÔÖÎÖİ",
+        "city_name": "å¤§ç†ç™½æ—è‡ªæ²»å·",
         "city_adcode": 532900,
         "province_adcode": 530000,
         "province_id": 25
     },
     "533100": {
         "id": 297,
-        "city_name": "µÂºê´ö×å¾°ÆÄ×å×ÔÖÎÖİ",
+        "city_name": "å¾·å®å‚£æ—æ™¯é¢‡æ—è‡ªæ²»å·",
         "city_adcode": 533100,
         "province_adcode": 530000,
         "province_id": 25
     },
     "533300": {
         "id": 298,
-        "city_name": "Å­½­ÀüËÛ×å×ÔÖÎÖİ",
+        "city_name": "æ€’æ±Ÿå‚ˆåƒ³æ—è‡ªæ²»å·",
         "city_adcode": 533300,
         "province_adcode": 530000,
         "province_id": 25
     },
     "533400": {
         "id": 299,
-        "city_name": "µÏÇì²Ø×å×ÔÖÎÖİ",
+        "city_name": "è¿ªåº†è—æ—è‡ªæ²»å·",
         "city_adcode": 533400,
         "province_adcode": 530000,
         "province_id": 25
     },
     "540100": {
         "id": 300,
-        "city_name": "À­ÈøÊĞ",
+        "city_name": "æ‹‰è¨å¸‚",
         "city_adcode": 540100,
         "province_adcode": 540000,
         "province_id": 26
     },
     "540200": {
         "id": 301,
-        "city_name": "ÈÕ¿¦ÔòÊĞ",
+        "city_name": "æ—¥å–€åˆ™å¸‚",
         "city_adcode": 540200,
         "province_adcode": 540000,
         "province_id": 26
     },
     "540300": {
         "id": 302,
-        "city_name": "²ı¶¼ÊĞ",
+        "city_name": "æ˜Œéƒ½å¸‚",
         "city_adcode": 540300,
         "province_adcode": 540000,
         "province_id": 26
     },
     "540400": {
         "id": 303,
-        "city_name": "ÁÖÖ¥ÊĞ",
+        "city_name": "æ—èŠå¸‚",
         "city_adcode": 540400,
         "province_adcode": 540000,
         "province_id": 26
     },
     "540500": {
         "id": 304,
-        "city_name": "É½ÄÏÊĞ",
+        "city_name": "å±±å—å¸‚",
         "city_adcode": 540500,
         "province_adcode": 540000,
         "province_id": 26
     },
     "540600": {
         "id": 305,
-        "city_name": "ÄÇÇúÊĞ",
+        "city_name": "é‚£æ›²å¸‚",
         "city_adcode": 540600,
         "province_adcode": 540000,
         "province_id": 26
     },
     "542500": {
         "id": 306,
-        "city_name": "°¢ÀïµØÇø",
+        "city_name": "é˜¿é‡Œåœ°åŒº",
         "city_adcode": 542500,
         "province_adcode": 540000,
         "province_id": 26
     },
     "610100": {
         "id": 307,
-        "city_name": "Î÷°²ÊĞ",
+        "city_name": "è¥¿å®‰å¸‚",
         "city_adcode": 610100,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610200": {
         "id": 308,
-        "city_name": "Í­´¨ÊĞ",
+        "city_name": "é“œå·å¸‚",
         "city_adcode": 610200,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610300": {
         "id": 309,
-        "city_name": "±¦¼¦ÊĞ",
+        "city_name": "å®é¸¡å¸‚",
         "city_adcode": 610300,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610400": {
         "id": 310,
-        "city_name": "ÏÌÑôÊĞ",
+        "city_name": "å’¸é˜³å¸‚",
         "city_adcode": 610400,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610500": {
         "id": 311,
-        "city_name": "Î¼ÄÏÊĞ",
+        "city_name": "æ¸­å—å¸‚",
         "city_adcode": 610500,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610600": {
         "id": 312,
-        "city_name": "ÑÓ°²ÊĞ",
+        "city_name": "å»¶å®‰å¸‚",
         "city_adcode": 610600,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610700": {
         "id": 313,
-        "city_name": "ººÖĞÊĞ",
+        "city_name": "æ±‰ä¸­å¸‚",
         "city_adcode": 610700,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610800": {
         "id": 314,
-        "city_name": "ÓÜÁÖÊĞ",
+        "city_name": "æ¦†æ—å¸‚",
         "city_adcode": 610800,
         "province_adcode": 610000,
         "province_id": 27
     },
     "610900": {
         "id": 315,
-        "city_name": "°²¿µÊĞ",
+        "city_name": "å®‰åº·å¸‚",
         "city_adcode": 610900,
         "province_adcode": 610000,
         "province_id": 27
     },
     "611000": {
         "id": 316,
-        "city_name": "ÉÌÂåÊĞ",
+        "city_name": "å•†æ´›å¸‚",
         "city_adcode": 611000,
         "province_adcode": 610000,
         "province_id": 27
     },
     "620100": {
         "id": 317,
-        "city_name": "À¼ÖİÊĞ",
+        "city_name": "å…°å·å¸‚",
         "city_adcode": 620100,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620200": {
         "id": 318,
-        "city_name": "¼ÎÓø¹ØÊĞ",
+        "city_name": "å˜‰å³ªå…³å¸‚",
         "city_adcode": 620200,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620300": {
         "id": 319,
-        "city_name": "½ğ²ıÊĞ",
+        "city_name": "é‡‘æ˜Œå¸‚",
         "city_adcode": 620300,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620400": {
         "id": 320,
-        "city_name": "°×ÒøÊĞ",
+        "city_name": "ç™½é“¶å¸‚",
         "city_adcode": 620400,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620500": {
         "id": 321,
-        "city_name": "ÌìË®ÊĞ",
+        "city_name": "å¤©æ°´å¸‚",
         "city_adcode": 620500,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620600": {
         "id": 322,
-        "city_name": "ÎäÍşÊĞ",
+        "city_name": "æ­¦å¨å¸‚",
         "city_adcode": 620600,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620700": {
         "id": 323,
-        "city_name": "ÕÅÒ´ÊĞ",
+        "city_name": "å¼ æ–å¸‚",
         "city_adcode": 620700,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620800": {
         "id": 324,
-        "city_name": "Æ½Á¹ÊĞ",
+        "city_name": "å¹³å‡‰å¸‚",
         "city_adcode": 620800,
         "province_adcode": 620000,
         "province_id": 28
     },
     "620900": {
         "id": 325,
-        "city_name": "¾ÆÈªÊĞ",
+        "city_name": "é…’æ³‰å¸‚",
         "city_adcode": 620900,
         "province_adcode": 620000,
         "province_id": 28
     },
     "621000": {
         "id": 326,
-        "city_name": "ÇìÑôÊĞ",
+        "city_name": "åº†é˜³å¸‚",
         "city_adcode": 621000,
         "province_adcode": 620000,
         "province_id": 28
     },
     "621100": {
         "id": 327,
-        "city_name": "¶¨Î÷ÊĞ",
+        "city_name": "å®šè¥¿å¸‚",
         "city_adcode": 621100,
         "province_adcode": 620000,
         "province_id": 28
     },
     "621200": {
         "id": 328,
-        "city_name": "Â¤ÄÏÊĞ",
+        "city_name": "é™‡å—å¸‚",
         "city_adcode": 621200,
         "province_adcode": 620000,
         "province_id": 28
     },
     "622900": {
         "id": 329,
-        "city_name": "ÁÙÏÄ»Ø×å×ÔÖÎÖİ",
+        "city_name": "ä¸´å¤å›æ—è‡ªæ²»å·",
         "city_adcode": 622900,
         "province_adcode": 620000,
         "province_id": 28
     },
     "623000": {
         "id": 330,
-        "city_name": "¸ÊÄÏ²Ø×å×ÔÖÎÖİ",
+        "city_name": "ç”˜å—è—æ—è‡ªæ²»å·",
         "city_adcode": 623000,
         "province_adcode": 620000,
         "province_id": 28
     },
     "630100": {
         "id": 331,
-        "city_name": "Î÷ÄşÊĞ",
+        "city_name": "è¥¿å®å¸‚",
         "city_adcode": 630100,
         "province_adcode": 630000,
         "province_id": 29
     },
     "630200": {
         "id": 332,
-        "city_name": "º£¶«ÊĞ",
+        "city_name": "æµ·ä¸œå¸‚",
         "city_adcode": 630200,
         "province_adcode": 630000,
         "province_id": 29
     },
     "632200": {
         "id": 333,
-        "city_name": "º£±±²Ø×å×ÔÖÎÖİ",
+        "city_name": "æµ·åŒ—è—æ—è‡ªæ²»å·",
         "city_adcode": 632200,
         "province_adcode": 630000,
         "province_id": 29
     },
     "632300": {
         "id": 334,
-        "city_name": "»ÆÄÏ²Ø×å×ÔÖÎÖİ",
+        "city_name": "é»„å—è—æ—è‡ªæ²»å·",
         "city_adcode": 632300,
         "province_adcode": 630000,
         "province_id": 29
     },
     "632500": {
         "id": 335,
-        "city_name": "º£ÄÏ²Ø×å×ÔÖÎÖİ",
+        "city_name": "æµ·å—è—æ—è‡ªæ²»å·",
         "city_adcode": 632500,
         "province_adcode": 630000,
         "province_id": 29
     },
     "632600": {
         "id": 336,
-        "city_name": "¹ûÂå²Ø×å×ÔÖÎÖİ",
+        "city_name": "æœæ´›è—æ—è‡ªæ²»å·",
         "city_adcode": 632600,
         "province_adcode": 630000,
         "province_id": 29
     },
     "632700": {
         "id": 337,
-        "city_name": "ÓñÊ÷²Ø×å×ÔÖÎÖİ",
+        "city_name": "ç‰æ ‘è—æ—è‡ªæ²»å·",
         "city_adcode": 632700,
         "province_adcode": 630000,
         "province_id": 29
     },
     "632800": {
         "id": 338,
-        "city_name": "º£Î÷ÃÉ¹Å×å²Ø×å×ÔÖÎÖİ",
+        "city_name": "æµ·è¥¿è’™å¤æ—è—æ—è‡ªæ²»å·",
         "city_adcode": 632800,
         "province_adcode": 630000,
         "province_id": 29
     },
     "640100": {
         "id": 339,
-        "city_name": "Òø´¨ÊĞ",
+        "city_name": "é“¶å·å¸‚",
         "city_adcode": 640100,
         "province_adcode": 640000,
         "province_id": 30
     },
     "640200": {
         "id": 340,
-        "city_name": "Ê¯×ìÉ½ÊĞ",
+        "city_name": "çŸ³å˜´å±±å¸‚",
         "city_adcode": 640200,
         "province_adcode": 640000,
         "province_id": 30
     },
     "640300": {
         "id": 341,
-        "city_name": "ÎâÖÒÊĞ",
+        "city_name": "å´å¿ å¸‚",
         "city_adcode": 640300,
         "province_adcode": 640000,
         "province_id": 30
     },
     "640400": {
         "id": 342,
-        "city_name": "¹ÌÔ­ÊĞ",
+        "city_name": "å›ºåŸå¸‚",
         "city_adcode": 640400,
         "province_adcode": 640000,
         "province_id": 30
     },
     "640500": {
         "id": 343,
-        "city_name": "ÖĞÎÀÊĞ",
+        "city_name": "ä¸­å«å¸‚",
         "city_adcode": 640500,
         "province_adcode": 640000,
         "province_id": 30
     },
     "650100": {
         "id": 344,
-        "city_name": "ÎÚÂ³Ä¾ÆëÊĞ",
+        "city_name": "ä¹Œé²æœ¨é½å¸‚",
         "city_adcode": 650100,
         "province_adcode": 650000,
         "province_id": 31
     },
     "650200": {
         "id": 345,
-        "city_name": "¿ËÀ­ÂêÒÀÊĞ",
+        "city_name": "å…‹æ‹‰ç›ä¾å¸‚",
         "city_adcode": 650200,
         "province_adcode": 650000,
         "province_id": 31
     },
     "650400": {
         "id": 346,
-        "city_name": "ÍÂÂ³·¬ÊĞ",
+        "city_name": "åé²ç•ªå¸‚",
         "city_adcode": 650400,
         "province_adcode": 650000,
         "province_id": 31
     },
     "650500": {
         "id": 347,
-        "city_name": "¹şÃÜÊĞ",
+        "city_name": "å“ˆå¯†å¸‚",
         "city_adcode": 650500,
         "province_adcode": 650000,
         "province_id": 31
     },
     "652300": {
         "id": 348,
-        "city_name": "²ı¼ª»Ø×å×ÔÖÎÖİ",
+        "city_name": "æ˜Œå‰å›æ—è‡ªæ²»å·",
         "city_adcode": 652300,
         "province_adcode": 650000,
         "province_id": 31
     },
     "652700": {
         "id": 349,
-        "city_name": "²©¶ûËşÀ­ÃÉ¹Å×ÔÖÎÖİ",
+        "city_name": "åšå°”å¡”æ‹‰è’™å¤è‡ªæ²»å·",
         "city_adcode": 652700,
         "province_adcode": 650000,
         "province_id": 31
     },
     "652800": {
         "id": 350,
-        "city_name": "°ÍÒô¹ùÀãÃÉ¹Å×ÔÖÎÖİ",
+        "city_name": "å·´éŸ³éƒ­æ¥è’™å¤è‡ªæ²»å·",
         "city_adcode": 652800,
         "province_adcode": 650000,
         "province_id": 31
     },
     "652900": {
         "id": 351,
-        "city_name": "°¢¿ËËÕµØÇø",
+        "city_name": "é˜¿å…‹è‹åœ°åŒº",
         "city_adcode": 652900,
         "province_adcode": 650000,
         "province_id": 31
     },
     "653000": {
         "id": 352,
-        "city_name": "¿Ë×ÎÀÕËÕ¿Â¶û¿Ë×Î×ÔÖÎÖİ",
+        "city_name": "å…‹å­œå‹’è‹æŸ¯å°”å…‹å­œè‡ªæ²»å·",
         "city_adcode": 653000,
         "province_adcode": 650000,
         "province_id": 31
     },
     "653100": {
         "id": 353,
-        "city_name": "¿¦Ê²µØÇø",
+        "city_name": "å–€ä»€åœ°åŒº",
         "city_adcode": 653100,
         "province_adcode": 650000,
         "province_id": 31
     },
     "653200": {
         "id": 354,
-        "city_name": "ºÍÌïµØÇø",
+        "city_name": "å’Œç”°åœ°åŒº",
         "city_adcode": 653200,
         "province_adcode": 650000,
         "province_id": 31
     },
     "654000": {
         "id": 355,
-        "city_name": "ÒÁÀç¹şÈø¿Ë×ÔÖÎÖİ",
+        "city_name": "ä¼ŠçŠå“ˆè¨å…‹è‡ªæ²»å·",
         "city_adcode": 654000,
         "province_adcode": 650000,
         "province_id": 31
     },
     "654200": {
         "id": 356,
-        "city_name": "Ëş³ÇµØÇø",
+        "city_name": "å¡”åŸåœ°åŒº",
         "city_adcode": 654200,
         "province_adcode": 650000,
         "province_id": 31
     },
     "654300": {
         "id": 357,
-        "city_name": "°¢ÀÕÌ©µØÇø",
+        "city_name": "é˜¿å‹’æ³°åœ°åŒº",
         "city_adcode": 654300,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659000": {
         "id": 358,
-        "city_name": "ºúÑîºÓÊĞ",
+        "city_name": "èƒ¡æ¨æ²³å¸‚",
         "city_adcode": 659000,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659001": {
         "id": 359,
-        "city_name": "Ê¯ºÓ×ÓÊĞ",
+        "city_name": "çŸ³æ²³å­å¸‚",
         "city_adcode": 659001,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659002": {
         "id": 360,
-        "city_name": "°¢À­¶ûÊĞ",
+        "city_name": "é˜¿æ‹‰å°”å¸‚",
         "city_adcode": 659002,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659003": {
         "id": 361,
-        "city_name": "Í¼Ä¾Êæ¿ËÊĞ",
+        "city_name": "å›¾æœ¨èˆ’å…‹å¸‚",
         "city_adcode": 659003,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659004": {
         "id": 362,
-        "city_name": "Îå¼ÒÇşÊĞ",
+        "city_name": "äº”å®¶æ¸ å¸‚",
         "city_adcode": 659004,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659005": {
         "id": 363,
-        "city_name": "±±ÍÍÊĞ",
+        "city_name": "åŒ—å±¯å¸‚",
         "city_adcode": 659005,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659006": {
         "id": 364,
-        "city_name": "ÌúÃÅ¹ØÊĞ",
+        "city_name": "é“é—¨å…³å¸‚",
         "city_adcode": 659006,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659007": {
         "id": 365,
-        "city_name": "Ë«ºÓÊĞ",
+        "city_name": "åŒæ²³å¸‚",
         "city_adcode": 659007,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659008": {
         "id": 366,
-        "city_name": "¿É¿Ë´ïÀ­ÊĞ",
+        "city_name": "å¯å…‹è¾¾æ‹‰å¸‚",
         "city_adcode": 659008,
         "province_adcode": 650000,
         "province_id": 31
     },
     "659009": {
         "id": 367,
-        "city_name": "À¥ÓñÊĞ",
+        "city_name": "æ˜†ç‰å¸‚",
         "city_adcode": 659009,
         "province_adcode": 650000,
         "province_id": 31
     },
     "710100": {
         "id": 368,
-        "city_name": "Ì¨±±ÊĞ",
+        "city_name": "å°åŒ—å¸‚",
         "city_adcode": 710100,
         "province_adcode": 710000,
         "province_id": 32
     },
     "710200": {
         "id": 369,
-        "city_name": "¸ßĞÛÊĞ",
+        "city_name": "é«˜é›„å¸‚",
         "city_adcode": 710200,
         "province_adcode": 710000,
         "province_id": 32
     },
     "710300": {
         "id": 370,
-        "city_name": "ĞÂ±±ÊĞ",
+        "city_name": "æ–°åŒ—å¸‚",
         "city_adcode": 710300,
         "province_adcode": 710000,
         "province_id": 32
     },
     "710400": {
         "id": 371,
-        "city_name": "Ì¨ÖĞÊĞ",
+        "city_name": "å°ä¸­å¸‚",
         "city_adcode": 710400,
         "province_adcode": 710000,
         "province_id": 32
     },
     "710500": {
         "id": 372,
-        "city_name": "Ì¨ÄÏÊĞ",
+        "city_name": "å°å—å¸‚",
         "city_adcode": 710500,
         "province_adcode": 710000,
         "province_id": 32
     },
     "710600": {
         "id": 373,
-        "city_name": "ÌÒÔ°ÊĞ",
+        "city_name": "æ¡ƒå›­å¸‚",
         "city_adcode": 710600,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719001": {
         "id": 374,
-        "city_name": "»ùÂ¡ÊĞ",
+        "city_name": "åŸºéš†å¸‚",
         "city_adcode": 719001,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719002": {
         "id": 375,
-        "city_name": "ĞÂÖñÊĞ",
+        "city_name": "æ–°ç«¹å¸‚",
         "city_adcode": 719002,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719003": {
         "id": 376,
-        "city_name": "¼ÎÒåÊĞ",
+        "city_name": "å˜‰ä¹‰å¸‚",
         "city_adcode": 719003,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719004": {
         "id": 377,
-        "city_name": "ĞÂÖñÏØ",
+        "city_name": "æ–°ç«¹å¿",
         "city_adcode": 719004,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719005": {
         "id": 378,
-        "city_name": "ÒËÀ¼ÏØ",
+        "city_name": "å®œå…°å¿",
         "city_adcode": 719005,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719006": {
         "id": 379,
-        "city_name": "ÃçÀõÏØ",
+        "city_name": "è‹—æ —å¿",
         "city_adcode": 719006,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719007": {
         "id": 380,
-        "city_name": "ÕÃ»¯ÏØ",
+        "city_name": "å½°åŒ–å¿",
         "city_adcode": 719007,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719008": {
         "id": 381,
-        "city_name": "ÔÆÁÖÏØ",
+        "city_name": "äº‘æ—å¿",
         "city_adcode": 719008,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719009": {
         "id": 382,
-        "city_name": "ÄÏÍ¶ÏØ",
+        "city_name": "å—æŠ•å¿",
         "city_adcode": 719009,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719010": {
         "id": 383,
-        "city_name": "¼ÎÒåÏØ",
+        "city_name": "å˜‰ä¹‰å¿",
         "city_adcode": 719010,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719011": {
         "id": 384,
-        "city_name": "ÆÁ¶«ÏØ",
+        "city_name": "å±ä¸œå¿",
         "city_adcode": 719011,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719012": {
         "id": 385,
-        "city_name": "Ì¨¶«ÏØ",
+        "city_name": "å°ä¸œå¿",
         "city_adcode": 719012,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719013": {
         "id": 386,
-        "city_name": "»¨Á«ÏØ",
+        "city_name": "èŠ±è²å¿",
         "city_adcode": 719013,
         "province_adcode": 710000,
         "province_id": 32
     },
     "719014": {
         "id": 387,
-        "city_name": "ÅìºşÏØ",
+        "city_name": "æ¾æ¹–å¿",
         "city_adcode": 719014,
         "province_adcode": 710000,
         "province_id": 32
     },
     "810000": {
         "id": 388,
-        "city_name": "Ïã¸Û",
+        "city_name": "é¦™æ¸¯",
         "city_adcode": 810000,
         "province_adcode": 810000,
         "province_id": 33
     },
     "820000": {
         "id": 389,
-        "city_name": "°ÄÃÅ",
+        "city_name": "æ¾³é—¨",
         "city_adcode": 820000,
         "province_adcode": 820000,
         "province_id": 34
